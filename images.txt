@@ -5,6 +5,3 @@ bitnami/mysqld-exporter:0.15.1-debian-12-r16
 
 
 
-
-
-
