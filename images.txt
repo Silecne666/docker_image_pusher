@@ -1,4 +1,4 @@
-radondb/kube-rbac-proxy:v0.8.0
+radondb/mysql-operator
 
 
 
