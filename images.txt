@@ -1,4 +1,6 @@
-docker.io/radondb/kube-rbac-proxy
+radondb/kube-rbac-proxy:v0.8.0
+
+
 
 
 
