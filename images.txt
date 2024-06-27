@@ -1,6 +1,5 @@
-bitnami/mysql:8.0.37-debian-12-r2
-bitnami/os-shell:12-debian-12-r21
-bitnami/mysqld-exporter:0.15.1-debian-12-r16
+mysql:8.0.16
+
 
 
 
